@@ -1,0 +1,13 @@
+Manual Steps:
+
+Step1: Get AWS Management Console
+Step2: Get IAM Console
+       In IAM Console we have many options to select like,
+       - Users
+       - Groups
+       - Roles
+       - Policies etc...
+
+Boto3 Automation Script
+
+
