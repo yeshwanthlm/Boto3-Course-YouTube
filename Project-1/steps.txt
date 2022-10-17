@@ -9,5 +9,3 @@ Step2: Get IAM Console
        - Policies etc...
 
 Boto3 Automation Script
-
-
